@@ -1,0 +1,4 @@
+npm init -y => to add package json file.
+To load an ES module, set "type": "module" in the package.json or use the .mjs extension.
+npm i -g json-server => to make a json server
+json-server db.json  => to start server 
