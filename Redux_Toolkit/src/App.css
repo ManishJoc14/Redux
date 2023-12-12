@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-size: 18px;
+    font-weight: 600;
+}
+.container {
+    background-color: rgb(41, 40, 40);
+    color: rgb(229, 229, 19);
+    padding: 20px;
+}
+.account, .bonus {
+    border: 2px solid white;
+    padding: 30px;
+    text-align: center;
+    margin: 5px;
+}
+.componentName{
+    color: rgb(230, 18, 18);
+}
+.buttons{
+    display: flex;
+    flex-wrap: wrap;
+    gap:10px ;
+    justify-content: center;
+    margin: 20px 0 10px 0;
+}
+.buttons button{
+    font-size: 16px;
+    padding: 5px;
+    border-radius: 5px;
+}

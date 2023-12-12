@@ -1,4 +1,3 @@
-
 const init = 'account/init';
 const inc = 'account/increment';
 const dec = 'account/decrement';
